@@ -10,5 +10,5 @@ public:
             seen[nums[i]] = i;
         }
         return {};
-    }
+    }       
 };
