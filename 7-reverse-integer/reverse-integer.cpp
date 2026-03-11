@@ -12,9 +12,6 @@ public:
 
             rev=rev*10+digit;
 
-            
-
-            
         }
         return rev;
     }
